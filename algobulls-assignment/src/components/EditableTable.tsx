@@ -22,7 +22,7 @@ const waitTime = (time: number = 100) => {
 
 //Color code for common Tags
 const colorCode: Record<string, string> = {
-	Regular: "blue",
+	Regular: "bue",
 	New: "green",
 	HP: "volcano",
 	Urgent: "red",
